@@ -1,4 +1,4 @@
-# Simple Eclipse Project for running the Test Coverage Computation for Test Cases
+# Simple Eclipse Project for running Test Coverage Computations for Test Cases
 This is a simple project for computing test coverage for JUnit tests. 
 
 To experiment with this project, please download:
