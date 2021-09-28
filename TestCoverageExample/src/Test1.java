@@ -5,9 +5,9 @@ class Test1 {
 	@Test
 	void testTestDecOrInc() {
 		ToBeTested x = new ToBeTested();
-		x.decOrInc(2, true, false);
-		x.decOrInc(2, true, true);
-		x.decOrInc(2, false, false);
+		x.getPrice(200, true, false);
+		//x.getPrice(200, true, true);
+		//x.getPrice(200, false, false);
 	}
 
 }
