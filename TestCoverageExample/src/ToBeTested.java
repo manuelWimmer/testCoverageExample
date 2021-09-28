@@ -1,8 +1,10 @@
 public class ToBeTested {
 	
-	public int decOrInc(int x, boolean i, boolean d){
-		if (i) x++;
-		if (d) x--;
+	public double getPrice(double x, boolean f, boolean c){
+		if (f) 
+			x=x*0.9;
+		if (c) 
+			x=x*0.95;
 		return x;
 	}
 }
